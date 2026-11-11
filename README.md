@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a student at UIC, majoring in CS. Will be graduating in spring 28. I'm currently looking for CS related internships in the Chicago area, open to any kind of work. 
+
 <!--
 **gioyama/gioyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
